@@ -1,4 +1,4 @@
-# Problem-Solving
+## Problem-Solving
 Solutions of problems from LeetCode, Codeforces, HackerRank, AtCoder, UVA, SPOJ etc..
 
 |  #  |      Title     |   Solutions   | Video  | Difficulty  |                  
