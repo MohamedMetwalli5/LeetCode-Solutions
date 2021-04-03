@@ -1,5 +1,5 @@
 ## Problem-Solving
-Solutions of problems from LeetCode, Codeforces, HackerRank, AtCoder, UVA, SPOJ etc..
+Solutions of some problems from LeetCode
 
 # LeetCode
 |  #  |      Title     |   Solutions   | Video  | Difficulty  |                  
