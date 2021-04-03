@@ -5,7 +5,8 @@
   <br>
   <br>
 </p>
-## Problem-Solving
+
+# Problem-Solving
 Solutions of some problems from LeetCode
 
 # LeetCode
