@@ -1,5 +1,3 @@
-## Problem-Solving
-Solutions of some problems from LeetCode
 <p align="center">
   <a href="https://leetcode.com/RodneyShag">
     <img height=80 src="https://leetcode.com/static/webpack_bundles/images/logo-dark.e99485d9b.svg">
@@ -7,6 +5,9 @@ Solutions of some problems from LeetCode
   <br>
   <br>
 </p>
+## Problem-Solving
+Solutions of some problems from LeetCode
+
 # LeetCode
 |  #  |      Title     |   Solutions   | Video  | Difficulty  |                  
 |-----|----------------|---------------|--------|-------------|
