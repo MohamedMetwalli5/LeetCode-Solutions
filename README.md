@@ -1,5 +1,5 @@
 <p align="center">
-  <a>
+  <a  href="https://leetcode.com">
     <img height=80 src="https://leetcode.com/static/webpack_bundles/images/logo-dark.e99485d9b.svg">
   </a>
   <br>
