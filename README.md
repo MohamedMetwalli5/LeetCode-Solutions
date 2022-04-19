@@ -54,9 +54,6 @@ Solutions of 126 problems from LeetCode
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Solution](../master/Solutions/215.java) ||Medium|
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[Solution](../master/Solutions/398.java) ||Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](../master/Solutions/49.java) ||Medium|
-
-
-
 |2043|[Simple Bank System](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/2043.java) ||Medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/347.java) ||Medium|
 |973|[K Closest Points to Origin](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/973.java) ||Medium|
@@ -77,6 +74,25 @@ Solutions of 126 problems from LeetCode
 |1561|[Maximum Number of Coins You Can Get](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1561.java) ||Medium|
 |1630|[Arithmetic Subarrays](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1630.java) ||Medium|
 |2221|[Find Triangular Sum of an Array](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/2221.java) ||Medium|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
