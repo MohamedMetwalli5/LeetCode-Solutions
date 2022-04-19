@@ -10,7 +10,6 @@
 </p>
 
 # Problem-Solving 💻
-Solutions of 126 problems from LeetCode
 
 # LeetCode
 |  #  |      Title     |   Solutions   | Video  | Difficulty  |                  
