@@ -1,6 +1,6 @@
 ![License](https://img.shields.io/badge/License-MIT%20-red.svg)
 ![Language](https://img.shields.io/badge/language-Java%20%2F%20Python%20-blue.svg)
-
+ 
 <p align="center">
   <a  href="https://leetcode.com">
     <img height=80 src="https://leetcode.com/static/webpack_bundles/images/logo-dark.e99485d9b.svg">
