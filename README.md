@@ -47,9 +47,8 @@ Solutions of 126 problems from LeetCode
 |1508|[Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/)|[Solution](../master/Solutions/1508.java) ||Medium|
 |1023|[Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)|[Solution](../master/Solutions/1023.java) ||Medium|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Solution](../master/Solutions/378.java) ||Medium|
-|985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/random-pick-index/)|[Solution](../master/Solutions/985.java) ||Medium|
-|912|[Sort an Array
-](https://leetcode.com/problems/sort-an-array/)|[Solution](../master/Solutions/912.java) ||Medium|
+|985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)|[Solution](../master/Solutions/985.java) ||Medium|
+|912|[Sort an Array](https://leetcode.com/problems/sort-an-array/)|[Solution](../master/Solutions/912.java) ||Medium|
 |1584|[Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)|[Solution](../master/Solutions/1584.java) ||Medium|
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Solution](../master/Solutions/901.java) ||Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Solution](../master/Solutions/215.java) ||Medium|
