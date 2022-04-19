@@ -88,10 +88,6 @@ Solutions of 126 problems from LeetCode
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[Solution](../master/Solutions/535.java) ||Medium|
 |1637|[Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)|[Solution](../master/Solutions/1637.java) ||Medium|
 |1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[Solution](../master/Solutions/1038.java) ||Medium|
-
-
-
-
 |1315|[Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[Solution](../master/Solutions/1315.java) ||Medium|
 |1282|[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Solution](../master/Solutions/1282.java) ||Medium|
 |1379|[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|[Solution](../master/Solutions/1379.java) ||Medium|
