@@ -74,38 +74,27 @@ Solutions of 126 problems from LeetCode
 |1561|[Maximum Number of Coins You Can Get](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1561.java) ||Medium|
 |1630|[Arithmetic Subarrays](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1630.java) ||Medium|
 |2221|[Find Triangular Sum of an Array](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/2221.java) ||Medium|
+|763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Solution](../master/Solutions/763.java) ||Medium|
+|1305|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[Solution](../master/Solutions/1305.java) ||Medium|
+|1877|[Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)|[Solution](../master/Solutions/1877.java) ||Medium|
+|1817|[Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/)|[Solution](../master/Solutions/1817.java) ||Medium|
+|1551|[Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)|[Solution](../master/Solutions/1551.java) ||Medium|
+|2149|[Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)|[Solution](../master/Solutions/2149.java) ||Medium|
+|2130|[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)|[Solution](../master/Solutions/2130.java) ||Medium|
+|2161|[Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/)|[Solution](../master/Solutions/2161.java) ||Medium|
+|1409|[Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/)|[Solution](../master/Solutions/1409.java) ||Medium|
+|2120|[Execution of All Suffix Instructions Staying in a Grid](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/)|[Solution](../master/Solutions/2120.java) ||Medium|
+|2125|[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)|[Solution](../master/Solutions/2125.java) ||Medium|
+|535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[Solution](../master/Solutions/535.java) ||Medium|
+|1637|[Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)|[Solution](../master/Solutions/1637.java) ||Medium|
+|1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[Solution](../master/Solutions/1038.java) ||Medium|
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-|763|[Swap Nodes in Pairs](https://leetcode.com/problems/partition-labels/)|[Solution](../master/Solutions/763.java) ||Medium|
-|1305|[Swap Nodes in Pairs](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[Solution](../master/Solutions/1305.java) ||Medium|
-|1877|[Swap Nodes in Pairs](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)|[Solution](../master/Solutions/1877.java) ||Medium|
-|1817|[Swap Nodes in Pairs](https://leetcode.com/problems/finding-the-users-active-minutes/)|[Solution](../master/Solutions/1817.java) ||Medium|
-|1551|[Swap Nodes in Pairs](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)|[Solution](../master/Solutions/1551.java) ||Medium|
-|2149|[Swap Nodes in Pairs](https://leetcode.com/problems/rearrange-array-elements-by-sign/)|[Solution](../master/Solutions/2149.java) ||Medium|
-|2130|[Swap Nodes in Pairs](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)|[Solution](../master/Solutions/2130.java) ||Medium|
-|2161|[Swap Nodes in Pairs](https://leetcode.com/problems/partition-array-according-to-given-pivot/)|[Solution](../master/Solutions/2161.java) ||Medium|
-|1409|[Swap Nodes in Pairs](https://leetcode.com/problems/queries-on-a-permutation-with-key/)|[Solution](../master/Solutions/1409.java) ||Medium|
-|2120|[Swap Nodes in Pairs](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/)|[Solution](../master/Solutions/2120.java) ||Medium|
-|2125|[Swap Nodes in Pairs](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)|[Solution](../master/Solutions/2125.java) ||Medium|
-|535|[Swap Nodes in Pairs](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[Solution](../master/Solutions/535.java) ||Medium|
-|1637|[Swap Nodes in Pairs](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)|[Solution](../master/Solutions/1637.java) ||Medium|
-|1038|[Swap Nodes in Pairs](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[Solution](../master/Solutions/1038.java) ||Medium|
-|1315|[Swap Nodes in Pairs](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[Solution](../master/Solutions/1315.java) ||Medium|
-|1282|[Swap Nodes in Pairs](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Solution](../master/Solutions/1282.java) ||Medium|
-|1379|[Swap Nodes in Pairs](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|[Solution](../master/Solutions/1379.java) ||Medium|
-|1769|[Swap Nodes in Pairs](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)|[Solution](../master/Solutions/1769.java) ||Medium|
-|1828|[Swap Nodes in Pairs](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)|[Solution](../master/Solutions/1828.java) ||Medium|
+|1315|[Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[Solution](../master/Solutions/1315.java) ||Medium|
+|1282|[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Solution](../master/Solutions/1282.java) ||Medium|
+|1379|[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|[Solution](../master/Solutions/1379.java) ||Medium|
+|1769|[Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)|[Solution](../master/Solutions/1769.java) ||Medium|
+|1828|[Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)|[Solution](../master/Solutions/1828.java) ||Medium|
 |1476|[Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)|[Solution](../master/Solutions/1476.java) ||Medium|
