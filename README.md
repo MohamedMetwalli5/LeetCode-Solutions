@@ -34,12 +34,6 @@ Solutions of 126 problems from LeetCode
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)|[Solution](../master/Solutions/1805.java) ||Medium|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|[Solution](../master/Solutions/1805.java) ||Medium|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Solution](../master/Solutions/1805.java) ||Medium|
-
-
-
-
-
-
 |729|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[Solution](../master/Solutions/729.java) ||Medium|
 |676|[Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/)|[Solution](../master/Solutions/676.java) ||Medium|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[Solution](../master/Solutions/384.java) ||Medium|
