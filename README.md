@@ -54,6 +54,26 @@ Solutions of 126 problems from LeetCode
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Solution](../master/Solutions/215.java) ||Medium|
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[Solution](../master/Solutions/398.java) ||Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](../master/Solutions/49.java) ||Medium|
+|2043|[Simple Bank System](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/2043.java) ||Medium|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/347.java) ||Medium|
+|973|[K Closest Points to Origin](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/973.java) ||Medium|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/230.java) ||Medium|
+|1433|[Check If a String Can Break Another String](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1433.java) ||Medium|
+|1721|[Swapping Nodes in a Linked List](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1721.java) ||Medium|
+|1860|[Incremental Memory Leak](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1860.java) ||Medium|
+|1222|[Queens That Can Attack the King](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1222.java) ||Medium|
+|442|[Find All Duplicates in an Array](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/442.java) ||Medium|
+|1529|[Minimum Suffix Flips](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1529.java) ||Medium|
+|2023|[Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/2023.java) ||Medium|
+|1669|[Merge In Between Linked Lists](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1669.java) ||Medium|
+|701|[Insert into a Binary Search Tree](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/701.java) ||Medium|
+|1347|[Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1347.java) ||Medium|
+|1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1823.java) ||Medium|
+|1381|[Design a Stack With Increment Operation](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1381.java) ||Medium|
+|921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/921.java) ||Medium|
+|1561|[Maximum Number of Coins You Can Get](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1561.java) ||Medium|
+|1630|[Arithmetic Subarrays](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1630.java) ||Medium|
+|2221|[Find Triangular Sum of an Array](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/2221.java) ||Medium|
 
 
 
@@ -63,54 +83,6 @@ Solutions of 126 problems from LeetCode
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-|1805|[Swap Nodes in Pairs](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1805.java) ||Medium|
-|1805|[Swap Nodes in Pairs](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1805.java) ||Medium|
-|1805|[Swap Nodes in Pairs](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1805.java) ||Medium|
-|1805|[Swap Nodes in Pairs](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1805.java) ||Medium|
-|1805|[Swap Nodes in Pairs](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1805.java) ||Medium|
-|1805|[Swap Nodes in Pairs](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1805.java) ||Medium|
-|1805|[Swap Nodes in Pairs](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1805.java) ||Medium|
-|1805|[Swap Nodes in Pairs](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1805.java) ||Medium|
-|1805|[Swap Nodes in Pairs](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1805.java) ||Medium|
-|1805|[Swap Nodes in Pairs](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1805.java) ||Medium|
-|1805|[Swap Nodes in Pairs](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1805.java) ||Medium|
-|1805|[Swap Nodes in Pairs](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1805.java) ||Medium|
-|1805|[Swap Nodes in Pairs](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1805.java) ||Medium|
-|1805|[Swap Nodes in Pairs](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1805.java) ||Medium|
-|1805|[Swap Nodes in Pairs](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1805.java) ||Medium|
-|1805|[Swap Nodes in Pairs](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1805.java) ||Medium|
-|1805|[Swap Nodes in Pairs](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1805.java) ||Medium|
-|1805|[Swap Nodes in Pairs](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1805.java) ||Medium|
-|1805|[Swap Nodes in Pairs](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1805.java) ||Medium|
 |1805|[Swap Nodes in Pairs](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1805.java) ||Medium|
 |1805|[Swap Nodes in Pairs](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1805.java) ||Medium|
 |1805|[Swap Nodes in Pairs](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1805.java) ||Medium|
