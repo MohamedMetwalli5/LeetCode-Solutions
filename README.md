@@ -34,6 +34,8 @@ Solutions of 126 problems from LeetCode
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)|[Solution](../master/Solutions/1805.java) ||Medium|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|[Solution](../master/Solutions/1805.java) ||Medium|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Solution](../master/Solutions/1805.java) ||Medium|
+
+
 |1805|[Swap Nodes in Pairs](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1805.java) ||Medium|
 |1805|[Swap Nodes in Pairs](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1805.java) ||Medium|
 |1805|[Swap Nodes in Pairs](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1805.java) ||Medium|
