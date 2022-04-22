@@ -9,6 +9,11 @@
   <br>
 </p>
 
+## Solutions of some problems from LeetCode made specifically for beginners and who are in the intermediate level 
+<br>
+
+_If you like this project, please leave me a star._ &#9733;
+
 # Problem-Solving 💻
  
 # LeetCode
