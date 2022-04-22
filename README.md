@@ -72,7 +72,7 @@
 |921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Solution](../master/Solutions/921.java) ||Medium|
 |1561|[Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)|[Solution](../master/Solutions/1561.java) ||Medium|
 |1630|[Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)|[Solution](../master/Solutions/1630.java) ||Medium|
-|2221|[Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/submissions/)|[Solution](../master/Solutions/2221.java) ||Medium|
+|2221|[Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/)|[Solution](../master/Solutions/2221.java) ||Medium|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Solution](../master/Solutions/763.java) ||Medium|
 |1305|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[Solution](../master/Solutions/1305.java) ||Medium|
 |1877|[Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)|[Solution](../master/Solutions/1877.java) ||Medium|
