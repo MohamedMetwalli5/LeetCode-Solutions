@@ -10,14 +10,13 @@
 </p>
 
 ## Solutions of some problems from LeetCode made specifically for beginners and who are in the intermediate level. 
-## Note: This repository's solutions will be updated for improved ones as these solutions are made mainly for beginners.
+# Note: This repository's solutions will be updated for improved ones as these solutions are made mainly for beginners.
 <br>
 
 _If you like this project, please leave me a star._ &#9733;
 
 # Problem-Solving 💻
- 
-# LeetCode
+
 |  #  |      Title     |   Solutions   | Video  | Difficulty  |                  
 |-----|----------------|---------------|--------|-------------|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Solution](../main/Solutions/665.java) ||Medium|
