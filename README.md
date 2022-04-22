@@ -54,25 +54,25 @@
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[Solution](../master/Solutions/398.java) ||Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](../master/Solutions/49.java) ||Medium|
 |2043|[Simple Bank System](https://leetcode.com/problems/simple-bank-system/)|[Solution](../master/Solutions/2043.java) ||Medium|
-|347|[Top K Frequent Elements](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/347.java) ||Medium|
-|973|[K Closest Points to Origin](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/973.java) ||Medium|
-|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/230.java) ||Medium|
-|1433|[Check If a String Can Break Another String](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1433.java) ||Medium|
-|1721|[Swapping Nodes in a Linked List](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1721.java) ||Medium|
-|1860|[Incremental Memory Leak](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1860.java) ||Medium|
-|1222|[Queens That Can Attack the King](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1222.java) ||Medium|
-|442|[Find All Duplicates in an Array](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/442.java) ||Medium|
-|1529|[Minimum Suffix Flips](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1529.java) ||Medium|
-|2023|[Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/2023.java) ||Medium|
-|1669|[Merge In Between Linked Lists](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1669.java) ||Medium|
-|701|[Insert into a Binary Search Tree](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/701.java) ||Medium|
-|1347|[Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1347.java) ||Medium|
-|1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1823.java) ||Medium|
-|1381|[Design a Stack With Increment Operation](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1381.java) ||Medium|
-|921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/921.java) ||Medium|
-|1561|[Maximum Number of Coins You Can Get](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1561.java) ||Medium|
-|1630|[Arithmetic Subarrays](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/1630.java) ||Medium|
-|2221|[Find Triangular Sum of an Array](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/2221.java) ||Medium|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](../master/Solutions/347.java) ||Medium|
+|973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Solution](../master/Solutions/973.java) ||Medium|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Solution](../master/Solutions/230.java) ||Medium|
+|1433|[Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/)|[Solution](../master/Solutions/1433.java) ||Medium|
+|1721|[Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Solution](../master/Solutions/1721.java) ||Medium|
+|1860|[Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak/)|[Solution](../master/Solutions/1860.java) ||Medium|
+|1222|[Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/)|[Solution](../master/Solutions/1222.java) ||Medium|
+|442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Solution](../master/Solutions/442.java) ||Medium|
+|1529|[Minimum Suffix Flips](https://leetcode.com/problems/minimum-suffix-flips/)|[Solution](../master/Solutions/1529.java) ||Medium|
+|2023|[Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/)|[Solution](../master/Solutions/2023.java) ||Medium|
+|1669|[Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)|[Solution](../master/Solutions/1669.java) ||Medium|
+|701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Solution](../master/Solutions/701.java) ||Medium|
+|1347|[Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)|[Solution](../master/Solutions/1347.java) ||Medium|
+|1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)|[Solution](../master/Solutions/1823.java) ||Medium|
+|1381|[Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)|[Solution](../master/Solutions/1381.java) ||Medium|
+|921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Solution](../master/Solutions/921.java) ||Medium|
+|1561|[Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)|[Solution](../master/Solutions/1561.java) ||Medium|
+|1630|[Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)|[Solution](../master/Solutions/1630.java) ||Medium|
+|2221|[Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/submissions/)|[Solution](../master/Solutions/2221.java) ||Medium|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Solution](../master/Solutions/763.java) ||Medium|
 |1305|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[Solution](../master/Solutions/1305.java) ||Medium|
 |1877|[Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)|[Solution](../master/Solutions/1877.java) ||Medium|
