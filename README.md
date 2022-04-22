@@ -53,7 +53,7 @@
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Solution](../master/Solutions/215.java) ||Medium|
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[Solution](../master/Solutions/398.java) ||Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](../master/Solutions/49.java) ||Medium|
-|2043|[Simple Bank System](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/2043.java) ||Medium|
+|2043|[Simple Bank System](https://leetcode.com/problems/simple-bank-system/)|[Solution](../master/Solutions/2043.java) ||Medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/347.java) ||Medium|
 |973|[K Closest Points to Origin](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/973.java) ||Medium|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/Solutions/230.java) ||Medium|
