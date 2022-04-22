@@ -8,8 +8,10 @@
   <br>
   <br>
 </p>
-# What is this?
-these are Solutions of some problems from LeetCode made specifically for beginners and who are in the intermediate level. 
+
+## What is this?
+These are Solutions of some problems from LeetCode made specifically for beginners and who are in the intermediate level. 
+<br>
 
 _Note: This repository's solutions will be updated for improved ones as these solutions are made mainly for beginners.
 <br>
