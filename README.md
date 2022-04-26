@@ -22,7 +22,7 @@ _If you like this project, please leave me a star._ &#9733;
 |-----|----------------|---------------|--------|-------------|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Solution](../main/Solutions/665.java) ||Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution](../main/Solutions/7.java) ||Medium|
-|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Solution](../main/Solutions/98.java) ||Medium|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Solution](../main/Solutions/98.java) |[![Validate Binary Search Tree](https://img.youtube.com/vi/W5sHy8SDDak/0.jpg)](https://www.youtube.com/watch?v=W5sHy8SDDak)|Medium|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[Solution](../main/Solutions/204.java) ||Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](../main/Solutions/19.java) ||Medium|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](../main/Solutions/34.java) ||Medium|
