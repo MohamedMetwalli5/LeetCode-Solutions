@@ -106,7 +106,6 @@ _If you like this project, please leave me a star._ &#9733;
 |1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/)|[Solution](../main/Solutions/1603.java) ||Easy|
 |1637|[Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)|[Solution](../main/Solutions/1637.java) ||Easy|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Solution](../main/Solutions/1672.java) ||Easy|
-|2235|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)|[Solution](../main/Solutions/2235.java) ||Easy|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Solution](../main/Solutions/1431.java) ||Easy|
 |1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Solution](../main/Solutions/1678.java) ||Easy|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Solution](../main/Solutions/938.java) ||Easy|
