@@ -96,20 +96,20 @@ _If you like this project, please leave me a star._ &#9733;
 |1769|[Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)|[Solution](../main/Solutions/1769.java) ||Medium|
 |1828|[Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)|[Solution](../main/Solutions/1828.java) ||Medium|
 |1476|[Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)|[Solution](../main/Solutions/1476.java) ||Medium|
-|1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[Solution](../main/Solutions/1929.java) ||Easy|
-|1920|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|[Solution](../main/Solutions/1920.java) ||Easy|
+|1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[Solution](../main/Solutions/1929.java) |![1929](https://github.com/MohamedMetwalli5/LeetCode-Solutions/assets/58489322/4f48f917-fd43-4048-8dfa-cd23d5df1635)|Easy|
+|1920|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|[Solution](../main/Solutions/1920.java) |![1920](https://github.com/MohamedMetwalli5/LeetCode-Solutions/assets/58489322/3e9bafd6-4a56-464e-bc62-99a33320d256)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Solution](../main/Solutions/1108.java) |![1108](https://github.com/MohamedMetwalli5/LeetCode-Solutions/assets/58489322/ff392cd7-6dcd-4d5f-b0f2-8fd85723a639)|Easy|
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Solution](../main/Solutions/1512.java) ||Easy|
-|2011|[Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[Solution](../main/Solutions/2011.java) ||Easy|
+|2011|[Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[Solution](../main/Solutions/2011.java) |![2011](https://github.com/MohamedMetwalli5/LeetCode-Solutions/assets/58489322/94d517e5-a581-467b-883b-81cbef1b7025)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Solution](../main/Solutions/771.java) ||Easy|
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Solution](../main/Solutions/1470.java) ||Easy|
 |1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/)|[Solution](../main/Solutions/1603.java) ||Easy|
 |1637|[Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)|[Solution](../main/Solutions/1637.java) ||Easy|
-|1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Solution](../main/Solutions/1672.java) ||Easy|
+|1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Solution](../main/Solutions/1672.java) |![1672](https://github.com/MohamedMetwalli5/LeetCode-Solutions/assets/58489322/0596f060-d1ec-43b5-b8b9-6d45ad80d341)|Easy|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Solution](../main/Solutions/1431.java) ||Easy|
-|1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Solution](../main/Solutions/1678.java) ||Easy|
+|1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Solution](../main/Solutions/1678.java) |![1678](https://github.com/MohamedMetwalli5/LeetCode-Solutions/assets/58489322/1c321fc4-b543-42d4-b5c5-5dae9bab4e3b)|Easy|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Solution](../main/Solutions/938.java) ||Easy|
-|1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Solution](../main/Solutions/1480.java) ||Easy|
+|1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Solution](../main/Solutions/1480.java) |![1480](https://github.com/MohamedMetwalli5/LeetCode-Solutions/assets/58489322/da31bf0c-b23a-412c-9a34-d885cd1e3845)|Easy|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Solution](../main/Solutions/1365.java) ||Easy|
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Solution](../main/Solutions/1281.java) ||Easy|
 |2114|[Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)|[Solution](../main/Solutions/2114.java) ||Easy|
@@ -118,27 +118,27 @@ _If you like this project, please leave me a star._ &#9733;
 |1379|[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|[Solution](../main/Solutions/1379.java) ||Easy|
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Solution](../main/Solutions/1313.java) ||Easy|
 |1486|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Solution](../main/Solutions/1486.java) ||Easy|
-|1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Solution](../main/Solutions/1662.java) ||Easy|
+|1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Solution](../main/Solutions/1662.java) |![1662](https://github.com/MohamedMetwalli5/LeetCode-Solutions/assets/58489322/e4a8bf7f-64cb-4c8b-878a-239f901387b2)|Easy|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Solution](../main/Solutions/1342.java) ||Easy|
 |1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|[Solution](../main/Solutions/1773.java) ||Easy|
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Solution](../main/Solutions/1528.java) ||Easy|
-|1816|[Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)|[Solution](../main/Solutions/1816.java) ||Easy|
+|1816|[Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)|[Solution](../main/Solutions/1816.java) |![1816](https://github.com/MohamedMetwalli5/LeetCode-Solutions/assets/58489322/93609d89-4749-459b-bbae-48434543c7c1)|Easy|
 |2236|[Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)|[Solution](../main/Solutions/2236.java) ||Easy|
 |2194|[Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)|[Solution](../main/Solutions/2194.java) ||Easy|
 |2108|[Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)|[Solution](../main/Solutions/2108.java) ||Easy|
 |2325|[Decode the Message](https://leetcode.com/problems/decode-the-message/)|[Solution](../main/Solutions/2325.java) ||Easy|
 |2006|[Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)|[Solution](../main/Solutions/2006.java) ||Easy|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Solution](../main/Solutions/709.java) |![709](https://github.com/MohamedMetwalli5/LeetCode-Solutions/assets/58489322/1b8a447e-8896-4378-bc0c-2ff0958f0acd)|Easy|
-|1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[Solution](../main/Solutions/1832.java) ||Easy|
+|1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[Solution](../main/Solutions/1832.java) |![1832](https://github.com/MohamedMetwalli5/LeetCode-Solutions/assets/58489322/df99ca80-709e-407d-8e34-70c17a5d0794)|Easy|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Solution](../main/Solutions/557.java) ||Easy|
 |1859|[Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)|[Solution](../main/Solutions/1859.java) ||Easy|
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Solution](../main/Solutions/1684.java) ||Easy|
 |1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[Solution](../main/Solutions/1732.java) ||Easy|
-|1572|[Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)|[Solution](../main/Solutions/1572.java) ||Easy|
-|1913|[Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)|[Solution](../main/Solutions/1913.java) ||Easy|
+|1572|[Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)|[Solution](../main/Solutions/1572.java) |![1572](https://github.com/MohamedMetwalli5/LeetCode-Solutions/assets/58489322/a2c2980a-e93a-4fd5-b450-464459b3b253)|Easy|
+|1913|[Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)|[Solution](../main/Solutions/1913.java) |![1913](https://github.com/MohamedMetwalli5/LeetCode-Solutions/assets/58489322/fe2c5eb6-2098-4862-80ed-57095f151674)|Easy|
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[Solution](../main/Solutions/1464.java) |![1464](https://github.com/MohamedMetwalli5/LeetCode-Solutions/assets/58489322/184a9d0c-2dd0-4950-82b8-ff7740764f0a)|Easy|
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[Solution](../main/Solutions/1323.java) |![1323](https://github.com/MohamedMetwalli5/LeetCode-Solutions/assets/58489322/a0ad1f24-6f5c-40cb-82be-f50efcec5543)|Easy|
-|2315|[Count Asterisks](https://leetcode.com/problems/count-asterisks/)|[Solution](../main/Solutions/2315.java) ||Easy|
+|2315|[Count Asterisks](https://leetcode.com/problems/count-asterisks/)|[Solution](../main/Solutions/2315.java) |![2315](https://github.com/MohamedMetwalli5/LeetCode-Solutions/assets/58489322/3d5b7a68-1775-498d-b5bd-2d73c9c503e3)|Easy|
 |2037|[Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)|[Solution](../main/Solutions/2037.java) ||Easy|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Solution](../main/Solutions/832.java) |![832](https://github.com/MohamedMetwalli5/LeetCode-Solutions/assets/58489322/dd4005ce-3630-4450-8f4b-e0fe81f7606d)|Easy|
 |1614|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[Solution](../main/Solutions/1614.java) ||Easy|
