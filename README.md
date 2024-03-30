@@ -145,4 +145,4 @@ _If you like this project, please leave me a star._ &#9733;
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Solution](../main/Solutions/1290.java) |![1290](https://github.com/MohamedMetwalli5/LeetCode-Solutions/assets/58489322/a7254060-3476-4f2f-9e8f-80910400e227)|Easy|
 |1534|[Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)|[Solution](../main/Solutions/1534.java) ||Easy|
 |1844|[Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)|[Solution](../main/Solutions/1844.java) ||Easy|
-|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Solution](../main/Solutions/169.java) |![169](https://github.com/MohamedMetwalli5/LeetCode-Solutions/assets/58489322/0ccd5a8c-2840-455f-b30d-0b801675bc09)|Easy|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Solution](../main/Solutions/169.java) |![169](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/169.gif)|Easy|
