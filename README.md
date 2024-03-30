@@ -123,7 +123,7 @@ _If you like this project, please leave me a star._ &#9733;
 |1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|[Solution](../main/Solutions/1773.java) ||Easy|
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Solution](../main/Solutions/1528.java) ||Easy|
 |1816|[Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)|[Solution](../main/Solutions/1816.java) |![1816](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1816.gif)|Easy|
-|2236|[Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)|[Solution](../main/Solutions/2236.java) ||Easy|
+|2236|[Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)|[Solution](../main/Solutions/2236.java) |![2236](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/2236.gif)|Easy|
 |2194|[Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)|[Solution](../main/Solutions/2194.java) ||Easy|
 |2108|[Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)|[Solution](../main/Solutions/2108.java) ||Easy|
 |2325|[Decode the Message](https://leetcode.com/problems/decode-the-message/)|[Solution](../main/Solutions/2325.java) ||Easy|
