@@ -111,13 +111,13 @@ _If you like this project, please leave me a star._ &#9733;
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Solution](../main/Solutions/938.java) ||Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Solution](../main/Solutions/1480.java) |![1480](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1480.gif)|Easy|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Solution](../main/Solutions/1365.java) ||Easy|
-|1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Solution](../main/Solutions/1281.java) ||Easy|
+|1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Solution](../main/Solutions/1281.java) |![1281](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1281.gif)|Easy|
 |2114|[Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)|[Solution](../main/Solutions/2114.java) ||Easy|
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Solution](../main/Solutions/1221.java) |![1221](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1221.gif)|Easy|
-|1688|[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[Solution](../main/Solutions/1688.java) ||Easy|
+|1688|[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[Solution](../main/Solutions/1688.java) |![1688](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1688.gif)|Easy|
 |1379|[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|[Solution](../main/Solutions/1379.java) ||Easy|
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Solution](../main/Solutions/1313.java) ||Easy|
-|1486|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Solution](../main/Solutions/1486.java) ||Easy|
+|1486|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Solution](../main/Solutions/1486.java) |![1486](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1486.gif)|Easy|
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Solution](../main/Solutions/1662.java) |![1662](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1662.gif)|Easy|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Solution](../main/Solutions/1342.java) ||Easy|
 |1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|[Solution](../main/Solutions/1773.java) ||Easy|
@@ -133,7 +133,7 @@ _If you like this project, please leave me a star._ &#9733;
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Solution](../main/Solutions/557.java) ||Easy|
 |1859|[Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)|[Solution](../main/Solutions/1859.java) ||Easy|
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Solution](../main/Solutions/1684.java) ||Easy|
-|1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[Solution](../main/Solutions/1732.java) ||Easy|
+|1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[Solution](../main/Solutions/1732.java) |![1732](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1732.gif)|Easy|
 |1572|[Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)|[Solution](../main/Solutions/1572.java) |![1572](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1572.gif)|Easy|
 |1913|[Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)|[Solution](../main/Solutions/1913.java) |![1913](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1913.gif)|Easy|
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[Solution](../main/Solutions/1464.java) |![1464](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1464.gif)|Easy|
