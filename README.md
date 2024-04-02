@@ -106,9 +106,9 @@ _If you like this project, please leave me a star._ &#9733;
 |1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/)|[Solution](../main/Solutions/1603.java) ||Easy|
 |1637|[Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)|[Solution](../main/Solutions/1637.java) ||Easy|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Solution](../main/Solutions/1672.java) |![1672](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1672.gif)|Easy|
-|1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Solution](../main/Solutions/1431.java) ||Easy|
+|1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Solution](../main/Solutions/1431.java) |![1431](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1431.gif)|Easy|
 |1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Solution](../main/Solutions/1678.java) |![1678](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1678.gif)|Easy|
-|938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Solution](../main/Solutions/938.java) ||Easy|
+|938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Solution](../main/Solutions/938.java) |![938](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/938.gif)|Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Solution](../main/Solutions/1480.java) |![1480](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1480.gif)|Easy|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Solution](../main/Solutions/1365.java) ||Easy|
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Solution](../main/Solutions/1281.java) |![1281](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1281.gif)|Easy|
@@ -120,17 +120,17 @@ _If you like this project, please leave me a star._ &#9733;
 |1486|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Solution](../main/Solutions/1486.java) |![1486](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1486.gif)|Easy|
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Solution](../main/Solutions/1662.java) |![1662](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1662.gif)|Easy|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Solution](../main/Solutions/1342.java) ||Easy|
-|1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|[Solution](../main/Solutions/1773.java) ||Easy|
+|1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|[Solution](../main/Solutions/1773.java) |![1773](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1773.gif)|Easy|
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Solution](../main/Solutions/1528.java) ||Easy|
 |1816|[Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)|[Solution](../main/Solutions/1816.java) |![1816](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1816.gif)|Easy|
 |2236|[Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)|[Solution](../main/Solutions/2236.java) |![2236](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/2236.gif)|Easy|
 |2194|[Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)|[Solution](../main/Solutions/2194.java) ||Easy|
-|2108|[Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)|[Solution](../main/Solutions/2108.java) ||Easy|
+|2108|[Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)|[Solution](../main/Solutions/2108.java) |![2108](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/2108.gif)|Easy|
 |2325|[Decode the Message](https://leetcode.com/problems/decode-the-message/)|[Solution](../main/Solutions/2325.java) ||Easy|
 |2006|[Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)|[Solution](../main/Solutions/2006.java) ||Easy|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Solution](../main/Solutions/709.java) |![709](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/709.gif)|Easy|
 |1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[Solution](../main/Solutions/1832.java) |![1832](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1832.gif)|Easy|
-|557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Solution](../main/Solutions/557.java) ||Easy|
+|557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Solution](../main/Solutions/557.java) |![557](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/557.gif)|Easy|
 |1859|[Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)|[Solution](../main/Solutions/1859.java) ||Easy|
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Solution](../main/Solutions/1684.java) ||Easy|
 |1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[Solution](../main/Solutions/1732.java) |![1732](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1732.gif)|Easy|
