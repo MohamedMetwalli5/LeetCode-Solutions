@@ -103,7 +103,7 @@ _If you like this project, please leave me a star._ &#9733;
 |2011|[Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[Solution](../main/Solutions/2011.java) |![2011](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/2011.gif)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Solution](../main/Solutions/771.java) ||Easy|
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Solution](../main/Solutions/1470.java) |![1470](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1470.gif)|Easy|
-|1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/)|[Solution](../main/Solutions/1603.java) ||Easy|
+|1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/)|[Solution](../main/Solutions/1603.java) |![1603](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1603.gif)|Easy|
 |1637|[Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)|[Solution](../main/Solutions/1637.java) |![1637](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1637.gif)|Easy|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Solution](../main/Solutions/1672.java) |![1672](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1672.gif)|Easy|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Solution](../main/Solutions/1431.java) |![1431](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1431.gif)|Easy|
@@ -132,7 +132,7 @@ _If you like this project, please leave me a star._ &#9733;
 |1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[Solution](../main/Solutions/1832.java) |![1832](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1832.gif)|Easy|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Solution](../main/Solutions/557.java) |![557](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/557.gif)|Easy|
 |1859|[Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)|[Solution](../main/Solutions/1859.java) ||Easy|
-|1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Solution](../main/Solutions/1684.java) ||Easy|
+|1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Solution](../main/Solutions/1684.java) |![1684](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1684.gif)|Easy|
 |1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[Solution](../main/Solutions/1732.java) |![1732](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1732.gif)|Easy|
 |1572|[Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)|[Solution](../main/Solutions/1572.java) |![1572](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1572.gif)|Easy|
 |1913|[Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)|[Solution](../main/Solutions/1913.java) |![1913](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1913.gif)|Easy|
@@ -143,6 +143,6 @@ _If you like this project, please leave me a star._ &#9733;
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Solution](../main/Solutions/832.java) |![832](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/832.gif)|Easy|
 |1614|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[Solution](../main/Solutions/1614.java) ||Easy|
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Solution](../main/Solutions/1290.java) |![1290](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1290.gif)|Easy|
-|1534|[Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)|[Solution](../main/Solutions/1534.java) ||Easy|
+|1534|[Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)|[Solution](../main/Solutions/1534.java) |![1534](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1534.gif)|Easy|
 |1844|[Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)|[Solution](../main/Solutions/1844.java) ||Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Solution](../main/Solutions/169.java) |![169](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/169.gif)|Easy|
