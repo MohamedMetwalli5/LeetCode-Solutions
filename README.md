@@ -52,7 +52,6 @@ _If you like this project, please leave me a star._ &#9733;
 |1023|[Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)|[Solution](../main/Solutions/1023.java) ||Medium|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Solution](../main/Solutions/378.java) ||Medium|
 |985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)|[Solution](../main/Solutions/985.java) ||Medium|
-|912|[Sort an Array](https://leetcode.com/problems/sort-an-array/)|[Solution](../main/Solutions/912.java) ||Medium|
 |1584|[Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)|[Solution](../main/Solutions/1584.java) ||Medium|
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Solution](../main/Solutions/901.java) ||Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Solution](../main/Solutions/215.java) ||Medium|
