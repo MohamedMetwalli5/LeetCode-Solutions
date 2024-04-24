@@ -37,7 +37,7 @@ _If you like this project, please leave me a star._ &#9733;
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Solution](../main/Solutions/147.java) ||Medium|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Solution](../main/Solutions/380.java) ||Medium|
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)|[Solution](../main/Solutions/477.java) ||Medium|
-|148|[Sort List](https://leetcode.com/problems/sort-list/)|[Solution](../main/Solutions/148.java) ||Medium|
+|148|[Sort List](https://leetcode.com/problems/sort-list/)|[Solution](../main/Solutions/148.java) |![148](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/148.gif)|Medium|
 |729|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[Solution](../main/Solutions/729.java) ||Medium|
 |676|[Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/)|[Solution](../main/Solutions/676.java) ||Medium|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[Solution](../main/Solutions/384.java) ||Medium|
