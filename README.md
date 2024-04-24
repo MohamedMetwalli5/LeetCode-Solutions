@@ -46,7 +46,7 @@ _If you like this project, please leave me a star._ &#9733;
 |1109|[Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/)|[Solution](../main/Solutions/1109.java) ||Medium|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Solution](../main/Solutions/24.java) |![24](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/24.gif)|Medium|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](../main/Solutions/167.java) ||Medium|
-|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Solution](../main/Solutions/287.java) ||Medium|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Solution](../main/Solutions/287.java) |![287](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/287.gif)|Medium|
 |382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|[Solution](../main/Solutions/382.java) ||Medium|
 |1508|[Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/)|[Solution](../main/Solutions/1508.java) ||Medium|
 |1023|[Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)|[Solution](../main/Solutions/1023.java) ||Medium|
@@ -54,7 +54,7 @@ _If you like this project, please leave me a star._ &#9733;
 |985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)|[Solution](../main/Solutions/985.java) ||Medium|
 |1584|[Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)|[Solution](../main/Solutions/1584.java) ||Medium|
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Solution](../main/Solutions/901.java) ||Medium|
-|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Solution](../main/Solutions/215.java) ||Medium|
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Solution](../main/Solutions/215.java) |![215](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/215.gif)|Medium|
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[Solution](../main/Solutions/398.java) ||Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](../main/Solutions/49.java) ||Medium|
 |2043|[Simple Bank System](https://leetcode.com/problems/simple-bank-system/)|[Solution](../main/Solutions/2043.java) ||Medium|
