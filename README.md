@@ -28,7 +28,7 @@ _If you like this project, please leave me a star._ &#9733;
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](../main/Solutions/34.java) ||Medium|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[Solution](../main/Solutions/229.java) ||Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Solution](../main/Solutions/142.java) ||Medium|
-|560|[Swap Nodes in PairsSubarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Solution](../main/Solutions/560.java) ||Medium|
+|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Solution](../main/Solutions/560.java) |![560](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/560.gif)|Medium|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[Solution](../main/Solutions/187.java) ||Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Solution](../main/Solutions/56.java) ||Medium|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Solution](../main/Solutions/207.java) ||Medium|
