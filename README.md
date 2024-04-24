@@ -62,7 +62,7 @@ _If you like this project, please leave me a star._ &#9733;
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Solution](../main/Solutions/973.java) ||Medium|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Solution](../main/Solutions/230.java) ||Medium|
 |1433|[Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/)|[Solution](../main/Solutions/1433.java) ||Medium|
-|1721|[Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Solution](../main/Solutions/1721.java) ||Medium|
+|1721|[Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Solution](../main/Solutions/1721.java) |![1721](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1721.gif)|Medium|
 |1860|[Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak/)|[Solution](../main/Solutions/1860.java) ||Medium|
 |1222|[Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/)|[Solution](../main/Solutions/1222.java) ||Medium|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Solution](../main/Solutions/442.java) ||Medium|
