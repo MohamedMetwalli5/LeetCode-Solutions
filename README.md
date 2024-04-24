@@ -44,7 +44,7 @@ _If you like this project, please leave me a star._ &#9733;
 |677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)|[Solution](../main/Solutions/677.java) ||Medium|
 |2095|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[Solution](../main/Solutions/2095.java) ||Medium|
 |1109|[Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/)|[Solution](../main/Solutions/1109.java) ||Medium|
-|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Solution](../main/Solutions/24.java) ||Medium|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Solution](../main/Solutions/24.java) |![24](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/24.gif)|Medium|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](../main/Solutions/167.java) ||Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Solution](../main/Solutions/287.java) ||Medium|
 |382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|[Solution](../main/Solutions/382.java) ||Medium|
