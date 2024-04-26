@@ -1,16 +1,5 @@
 class Solution {
     
-    private static boolean isPrime(int number){
-        for(int i=2;i*i<number;i++){
-            if(number%i == 0){
-                return false;
-            }
-        }
-        
-        return true;
-    }
-    
-    
     public int countPrimes(int n) {
         int counter = 0;
         int[] array = new int[n];
