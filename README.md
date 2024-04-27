@@ -84,7 +84,7 @@ _If you like this project, please leave me a star._ &#9733;
 |1551|[Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)|[Solution](../main/Solutions/1551.java) ||Medium|
 |2149|[Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)|[Solution](../main/Solutions/2149.java) ||Medium|
 |2130|[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)|[Solution](../main/Solutions/2130.java) ||Medium|
-|2161|[Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/)|[Solution](../main/Solutions/2161.java) ||Medium|
+|2161|[Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/)|[Solution](../main/Solutions/2161.java) |![2161](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/2161.gif)|Medium|
 |1409|[Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/)|[Solution](../main/Solutions/1409.java) ||Medium|
 |2120|[Execution of All Suffix Instructions Staying in a Grid](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/)|[Solution](../main/Solutions/2120.java) ||Medium|
 |2125|[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)|[Solution](../main/Solutions/2125.java) ||Medium|
