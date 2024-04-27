@@ -94,7 +94,6 @@ _If you like this project, please leave me a star._ &#9733;
 |1282|[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Solution](../main/Solutions/1282.java) ||Medium|
 |1769|[Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)|[Solution](../main/Solutions/1769.java) ||Medium|
 |1828|[Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)|[Solution](../main/Solutions/1828.java) ||Medium|
-|1476|[Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)|[Solution](../main/Solutions/1476.java) ||Medium|
 |1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[Solution](../main/Solutions/1929.java) |![1929](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1929.gif)|Easy|
 |1920|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|[Solution](../main/Solutions/1920.java) |![1920](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1920.gif)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Solution](../main/Solutions/1108.java) |![1108](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1108.gif)|Easy|
