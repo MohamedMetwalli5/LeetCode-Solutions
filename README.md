@@ -69,7 +69,7 @@ _If you like this project, please leave me a star._ &#9733;
 |1529|[Minimum Suffix Flips](https://leetcode.com/problems/minimum-suffix-flips/)|[Solution](../main/Solutions/1529.java) ||Medium|
 |2023|[Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/)|[Solution](../main/Solutions/2023.java) ||Medium|
 |1669|[Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)|[Solution](../main/Solutions/1669.java) ||Medium|
-|701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Solution](../main/Solutions/701.java) ||Medium|
+|701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Solution](../main/Solutions/701.java) |![701](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/701.gif)|Medium|
 |1347|[Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)|[Solution](../main/Solutions/1347.java) ||Medium|
 |1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)|[Solution](../main/Solutions/1823.java) |![1823](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1823.gif)|Medium|
 |1381|[Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)|[Solution](../main/Solutions/1381.java) ||Medium|
