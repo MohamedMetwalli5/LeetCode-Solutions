@@ -90,7 +90,7 @@ _If you like this project, please leave me a star._ &#9733;
 |2125|[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)|[Solution](../main/Solutions/2125.java) ||Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[Solution](../main/Solutions/535.java) ||Medium|
 |1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[Solution](../main/Solutions/1038.java) |![1038](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1038.gif)|Medium|
-|1315|[Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[Solution](../main/Solutions/1315.java) ||Medium|
+|1315|[Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[Solution](../main/Solutions/1315.java) |![1315](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1315.gif)|Medium|
 |1282|[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Solution](../main/Solutions/1282.java) ||Medium|
 |1769|[Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)|[Solution](../main/Solutions/1769.java) ||Medium|
 |1828|[Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)|[Solution](../main/Solutions/1828.java) ||Medium|
