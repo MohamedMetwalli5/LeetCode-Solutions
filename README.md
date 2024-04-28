@@ -53,7 +53,6 @@ _If you like this project, please leave me a star._ &#9733;
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](../main/Solutions/347.java) ||Medium|
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Solution](../main/Solutions/973.java) ||Medium|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Solution](../main/Solutions/230.java) ||Medium|
-|1860|[Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak/)|[Solution](../main/Solutions/1860.java) |![1860](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1860.gif)|Medium|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Solution](../main/Solutions/442.java) ||Medium|
 |1529|[Minimum Suffix Flips](https://leetcode.com/problems/minimum-suffix-flips/)|[Solution](../main/Solutions/1529.java) ||Medium|
 |2023|[Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/)|[Solution](../main/Solutions/2023.java) ||Medium|
@@ -62,7 +61,6 @@ _If you like this project, please leave me a star._ &#9733;
 |1561|[Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)|[Solution](../main/Solutions/1561.java) ||Medium|
 |1630|[Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)|[Solution](../main/Solutions/1630.java) ||Medium|
 |2221|[Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/)|[Solution](../main/Solutions/2221.java) ||Medium|
-|763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Solution](../main/Solutions/763.java) ||Medium|
 |1877|[Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)|[Solution](../main/Solutions/1877.java) ||Medium|
 |1817|[Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/)|[Solution](../main/Solutions/1817.java) ||Medium|
 |1551|[Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)|[Solution](../main/Solutions/1551.java) ||Medium|
@@ -86,9 +84,11 @@ _If you like this project, please leave me a star._ &#9733;
 |1433|[Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/)|[Solution](../main/Solutions/1433.java) |![1433](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1433.gif)|Medium|
 |1721|[Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Solution](../main/Solutions/1721.java) |![1721](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1721.gif)|Medium|
 |1222|[Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/)|[Solution](../main/Solutions/1222.java) |![1222](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1222.gif)|Medium|
+|763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Solution](../main/Solutions/763.java) |![763](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/763.gif)|Medium|
 |1669|[Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)|[Solution](../main/Solutions/1669.java) |![1669](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1669.gif)|Medium|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Solution](../main/Solutions/701.java) |![701](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/701.gif)|Medium|
 |1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)|[Solution](../main/Solutions/1823.java) |![1823](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1823.gif)|Medium|
+|1860|[Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak/)|[Solution](../main/Solutions/1860.java) |![1860](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1860.gif)|Medium|
 |921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Solution](../main/Solutions/921.java) |![921](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/921.gif)|Medium|
 |1305|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[Solution](../main/Solutions/1305.java) |![1305](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1305.gif)|Medium|
 |2161|[Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/)|[Solution](../main/Solutions/2161.java) |![2161](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/2161.gif)|Medium|
