@@ -49,7 +49,6 @@ _If you like this project, please leave me a star._ &#9733;
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Solution](../main/Solutions/901.java) ||Medium|
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[Solution](../main/Solutions/398.java) ||Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](../main/Solutions/49.java) ||Medium|
-|2043|[Simple Bank System](https://leetcode.com/problems/simple-bank-system/)|[Solution](../main/Solutions/2043.java) ||Medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](../main/Solutions/347.java) ||Medium|
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Solution](../main/Solutions/973.java) ||Medium|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Solution](../main/Solutions/230.java) ||Medium|
@@ -77,6 +76,7 @@ _If you like this project, please leave me a star._ &#9733;
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](../main/Solutions/19.java) |![19](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/19.gif)|Medium|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](../main/Solutions/34.java) |![34](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/34.gif)|Medium|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Solution](../main/Solutions/560.java) |![560](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/560.gif)|Medium|
+|2043|[Simple Bank System](https://leetcode.com/problems/simple-bank-system/)|[Solution](../main/Solutions/2043.java) |![2043](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/2043.gif)|Medium|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|[Solution](../main/Solutions/148.java) |![148](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/148.gif)|Medium|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Solution](../main/Solutions/24.java) |![24](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/24.gif)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Solution](../main/Solutions/287.java) |![287](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/287.gif)|Medium|
