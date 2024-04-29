@@ -47,7 +47,6 @@ _If you like this project, please leave me a star._ &#9733;
 |985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)|[Solution](../main/Solutions/985.java) ||Medium|
 |1584|[Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)|[Solution](../main/Solutions/1584.java) ||Medium|
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Solution](../main/Solutions/901.java) ||Medium|
-|398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[Solution](../main/Solutions/398.java) ||Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](../main/Solutions/49.java) ||Medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](../main/Solutions/347.java) ||Medium|
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Solution](../main/Solutions/973.java) ||Medium|
@@ -79,6 +78,7 @@ _If you like this project, please leave me a star._ &#9733;
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Solution](../main/Solutions/24.java) |![24](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/24.gif)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Solution](../main/Solutions/287.java) |![287](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/287.gif)|Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Solution](../main/Solutions/215.java) |![215](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/215.gif)|Medium|
+|398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[Solution](../main/Solutions/398.java) |![398](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/398.gif)|Medium|
 |1433|[Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/)|[Solution](../main/Solutions/1433.java) |![1433](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1433.gif)|Medium|
 |1721|[Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Solution](../main/Solutions/1721.java) |![1721](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1721.gif)|Medium|
 |1222|[Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/)|[Solution](../main/Solutions/1222.java) |![1222](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1222.gif)|Medium|
