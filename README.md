@@ -56,7 +56,6 @@ _If you like this project, please leave me a star._ &#9733;
 |1529|[Minimum Suffix Flips](https://leetcode.com/problems/minimum-suffix-flips/)|[Solution](../main/Solutions/1529.java) ||Medium|
 |2023|[Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/)|[Solution](../main/Solutions/2023.java) ||Medium|
 |1347|[Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)|[Solution](../main/Solutions/1347.java) ||Medium|
-|1381|[Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)|[Solution](../main/Solutions/1381.java) ||Medium|
 |1561|[Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)|[Solution](../main/Solutions/1561.java) ||Medium|
 |1630|[Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)|[Solution](../main/Solutions/1630.java) ||Medium|
 |2221|[Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/)|[Solution](../main/Solutions/2221.java) ||Medium|
@@ -90,6 +89,7 @@ _If you like this project, please leave me a star._ &#9733;
 |1860|[Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak/)|[Solution](../main/Solutions/1860.java) |![1860](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1860.gif)|Medium|
 |921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Solution](../main/Solutions/921.java) |![921](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/921.gif)|Medium|
 |1551|[Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)|[Solution](../main/Solutions/1551.java) |![1551](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1551.gif)|Medium|
+|1381|[Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)|[Solution](../main/Solutions/1381.java) |![1381](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1381.gif)|Medium|
 |1305|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[Solution](../main/Solutions/1305.java) |![1305](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1305.gif)|Medium|
 |2161|[Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/)|[Solution](../main/Solutions/2161.java) |![2161](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/2161.gif)|Medium|
 |1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[Solution](../main/Solutions/1038.java) |![1038](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1038.gif)|Medium|
