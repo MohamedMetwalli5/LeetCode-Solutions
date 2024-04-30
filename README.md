@@ -32,7 +32,6 @@ _If you like this project, please leave me a star._ &#9733;
 |1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[Solution](../main/Solutions/1352.java) ||Medium|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Solution](../main/Solutions/147.java) ||Medium|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Solution](../main/Solutions/380.java) ||Medium|
-|477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)|[Solution](../main/Solutions/477.java) ||Medium|
 |729|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[Solution](../main/Solutions/729.java) ||Medium|
 |676|[Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/)|[Solution](../main/Solutions/676.java) ||Medium|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[Solution](../main/Solutions/384.java) ||Medium|
@@ -84,6 +83,7 @@ _If you like this project, please leave me a star._ &#9733;
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Solution](../main/Solutions/763.java) |![763](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/763.gif)|Medium|
 |1669|[Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)|[Solution](../main/Solutions/1669.java) |![1669](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1669.gif)|Medium|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Solution](../main/Solutions/701.java) |![701](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/701.gif)|Medium|
+|477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)|[Solution](../main/Solutions/477.java) |![477](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/477.gif)|Medium|
 |1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)|[Solution](../main/Solutions/1823.java) |![1823](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1823.gif)|Medium|
 |1860|[Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak/)|[Solution](../main/Solutions/1860.java) |![1860](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1860.gif)|Medium|
 |921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Solution](../main/Solutions/921.java) |![921](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/921.gif)|Medium|
