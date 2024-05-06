@@ -1,11 +1,4 @@
 class Solution {
-    
-    private static void printarr(int[] arr){
-        for(int i=0;i<arr.length;i++){
-            System.out.println(arr[i]);
-        }    
-    }
-    
     public int rangeSum(int[] nums, int n, int left, int right) {
         int[] arr = new int[nums.length*(nums.length+1)/2];
         int k = 0;
