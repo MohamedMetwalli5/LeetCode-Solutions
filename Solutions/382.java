@@ -9,15 +9,11 @@
  * }
  */
 class Solution {
-    int size = 0;
     private List<Integer> l = new ArrayList<>();
     public Solution(ListNode head) {
-        ListNode temp = new ListNode();
-        temp = head;
-        while(temp != null){
-            l.add(temp.val);
-            temp = temp.next;
-            size++;
+        while(head != null){
+            l.add(head.val);
+            head = head.next;
         }
     }
     
