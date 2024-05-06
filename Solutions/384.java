@@ -1,28 +1,27 @@
+import java.util.Random;
+
 class Solution {
-    private int[] original;
+    int[] data;
+    Random rand;
+
     public Solution(int[] nums) {
-        original = new int[nums.length];
-        for(int i=0;i<original.length;i++){
-            original[i] = nums[i];
-        }
+        data = nums;
+        rand = new Random();
     }
-    
+
     public int[] reset() {
-        return original;
+        return data;
     }
-    
+
     public int[] shuffle() {
-        int[] arr = new int[original.length];
-        for(int i=0;i<arr.length;i++){
-            arr[i] = original[i];
+        int[] shuffled = data.clone();
+        for (int i=shuffled.length-1;i>0;i--) {
+            int j = rand.nextInt(i+1);
+            int temp = shuffled[i];
+            shuffled[i] = shuffled[j];
+            shuffled[j] = temp;
         }
-        for(int i=0;i<arr.length;i++){
-            int to = new Random().nextInt(arr.length-i)+i;
-            int temp = arr[i];
-            arr[i] = arr[to];
-            arr[to] = temp;
-        }
-        return arr;
+        return shuffled;
     }
 }
 
