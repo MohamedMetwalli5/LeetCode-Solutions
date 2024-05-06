@@ -26,11 +26,9 @@ class Solution {
     
     public int kthSmallest(TreeNode root, int k) {
         inordertraversal(root);
-        int[] arr = new int[l.size()];
-        for(int i=0;i<l.size();i++){
-            arr[i] = l.get(i);
+        if(k-1 < 0){
+            return -1;
         }
-        Arrays.sort(arr);
-        return arr[k-1];
+        return l.get(k-1);
     }
 }
