@@ -27,7 +27,6 @@ _If you like this project, please leave me a star._ &#9733;
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[Solution](../main/Solutions/187.java) ||Medium|
 |848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[Solution](../main/Solutions/848.java) ||Medium|
 |1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[Solution](../main/Solutions/1352.java) ||Medium|
-|147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Solution](../main/Solutions/147.java) ||Medium|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Solution](../main/Solutions/380.java) ||Medium|
 |729|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[Solution](../main/Solutions/729.java) ||Medium|
 |676|[Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/)|[Solution](../main/Solutions/676.java) ||Medium|
@@ -87,6 +86,7 @@ _If you like this project, please leave me a star._ &#9733;
 |921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Solution](../main/Solutions/921.java) |![921](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/921.gif)|Medium|
 |1551|[Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)|[Solution](../main/Solutions/1551.java) |![1551](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1551.gif)|Medium|
 |985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)|[Solution](../main/Solutions/985.java) |![985](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/985.gif)|Medium|
+|147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Solution](../main/Solutions/147.java) |![147](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/147.gif)|Medium|
 |1381|[Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)|[Solution](../main/Solutions/1381.java) |![1381](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1381.gif)|Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Solution](../main/Solutions/56.java) |![56](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/56.gif)|Medium|
 |1305|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[Solution](../main/Solutions/1305.java) |![1305](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1305.gif)|Medium|
