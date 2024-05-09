@@ -21,7 +21,6 @@ _If you like this project, please leave me a star._ &#9733;
 |  #  |      Title     |   Solution    | Animation  | Difficulty  |                  
 |-----|----------------|---------------|------------|-------------|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Solution](../main/Solutions/665.java) ||Medium|
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution](../main/Solutions/7.java) ||Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Solution](../main/Solutions/98.java) ||Medium|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[Solution](../main/Solutions/229.java) ||Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Solution](../main/Solutions/142.java) ||Medium|
@@ -76,6 +75,7 @@ _If you like this project, please leave me a star._ &#9733;
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Solution](../main/Solutions/215.java) |![215](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/215.gif)|Medium|
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[Solution](../main/Solutions/398.java) |![398](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/398.gif)|Medium|
 |1433|[Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/)|[Solution](../main/Solutions/1433.java) |![1433](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1433.gif)|Medium|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution](../main/Solutions/7.java) |![7](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/7.gif)|Medium|
 |1721|[Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Solution](../main/Solutions/1721.java) |![1721](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1721.gif)|Medium|
 |1222|[Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/)|[Solution](../main/Solutions/1222.java) |![1222](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1222.gif)|Medium|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Solution](../main/Solutions/763.java) |![763](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/763.gif)|Medium|
