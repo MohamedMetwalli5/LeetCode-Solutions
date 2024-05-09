@@ -23,7 +23,6 @@ _If you like this project, please leave me a star._ &#9733;
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Solution](../main/Solutions/665.java) ||Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Solution](../main/Solutions/98.java) ||Medium|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[Solution](../main/Solutions/229.java) ||Medium|
-|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Solution](../main/Solutions/142.java) ||Medium|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[Solution](../main/Solutions/187.java) ||Medium|
 |848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[Solution](../main/Solutions/848.java) ||Medium|
 |1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[Solution](../main/Solutions/1352.java) ||Medium|
@@ -79,6 +78,7 @@ _If you like this project, please leave me a star._ &#9733;
 |1222|[Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/)|[Solution](../main/Solutions/1222.java) |![1222](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1222.gif)|Medium|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Solution](../main/Solutions/763.java) |![763](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/763.gif)|Medium|
 |1669|[Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)|[Solution](../main/Solutions/1669.java) |![1669](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1669.gif)|Medium|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Solution](../main/Solutions/142.java) |![142](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/142.gif)|Medium|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Solution](../main/Solutions/701.java) |![701](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/701.gif)|Medium|
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)|[Solution](../main/Solutions/477.java) |![477](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/477.gif)|Medium|
 |1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)|[Solution](../main/Solutions/1823.java) |![1823](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1823.gif)|Medium|
