@@ -26,9 +26,6 @@ class Solution {
     
     public int kthSmallest(TreeNode root, int k) {
         inordertraversal(root);
-        if(k-1 < 0){
-            return -1;
-        }
         return l.get(k-1);
     }
 }
