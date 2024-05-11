@@ -43,7 +43,6 @@ _If you like this project, please leave me a star._ &#9733;
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](../main/Solutions/49.java) ||Medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](../main/Solutions/347.java) ||Medium|
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Solution](../main/Solutions/973.java) ||Medium|
-|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Solution](../main/Solutions/230.java) ||Medium|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Solution](../main/Solutions/442.java) ||Medium|
 |1529|[Minimum Suffix Flips](https://leetcode.com/problems/minimum-suffix-flips/)|[Solution](../main/Solutions/1529.java) ||Medium|
 |2023|[Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/)|[Solution](../main/Solutions/2023.java) ||Medium|
@@ -91,6 +90,7 @@ _If you like this project, please leave me a star._ &#9733;
 |1817|[Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/)|[Solution](../main/Solutions/1817.java) |![1817](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1817.gif)|Medium|
 |1305|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[Solution](../main/Solutions/1305.java) |![1305](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1305.gif)|Medium|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Solution](../main/Solutions/207.java) |![207](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/207.gif)|Medium|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Solution](../main/Solutions/230.java) |![230](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/230.gif)|Medium|
 |2161|[Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/)|[Solution](../main/Solutions/2161.java) |![2161](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/2161.gif)|Medium|
 |1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[Solution](../main/Solutions/1038.java) |![1038](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1038.gif)|Medium|
 |1315|[Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[Solution](../main/Solutions/1315.java) |![1315](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1315.gif)|Medium|
