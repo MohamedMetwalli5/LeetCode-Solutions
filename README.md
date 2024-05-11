@@ -32,7 +32,6 @@ _If you like this project, please leave me a star._ &#9733;
 |677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)|[Solution](../main/Solutions/677.java) ||Medium|
 |1109|[Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/)|[Solution](../main/Solutions/1109.java) ||Medium|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](../main/Solutions/167.java) ||Medium|
-|382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|[Solution](../main/Solutions/382.java) ||Medium|
 |1508|[Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/)|[Solution](../main/Solutions/1508.java) ||Medium|
 |1023|[Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)|[Solution](../main/Solutions/1023.java) ||Medium|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Solution](../main/Solutions/378.java) ||Medium|
@@ -93,6 +92,7 @@ _If you like this project, please leave me a star._ &#9733;
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Solution](../main/Solutions/230.java) |![230](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/230.gif)|Medium|
 |2161|[Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/)|[Solution](../main/Solutions/2161.java) |![2161](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/2161.gif)|Medium|
 |1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[Solution](../main/Solutions/1038.java) |![1038](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1038.gif)|Medium|
+|382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|[Solution](../main/Solutions/382.java) |![382](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/382.gif)|Medium|
 |1315|[Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[Solution](../main/Solutions/1315.java) |![1315](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1315.gif)|Medium|
 |1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[Solution](../main/Solutions/1929.java) |![1929](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1929.gif)|Easy|
 |1920|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|[Solution](../main/Solutions/1920.java) |![1920](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1920.gif)|Easy|
