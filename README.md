@@ -30,7 +30,6 @@ _If you like this project, please leave me a star._ &#9733;
 |676|[Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/)|[Solution](../main/Solutions/676.java) ||Medium|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[Solution](../main/Solutions/384.java) ||Medium|
 |677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)|[Solution](../main/Solutions/677.java) ||Medium|
-|2095|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[Solution](../main/Solutions/2095.java) ||Medium|
 |1109|[Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/)|[Solution](../main/Solutions/1109.java) ||Medium|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](../main/Solutions/167.java) ||Medium|
 |382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|[Solution](../main/Solutions/382.java) ||Medium|
@@ -81,6 +80,7 @@ _If you like this project, please leave me a star._ &#9733;
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)|[Solution](../main/Solutions/477.java) |![477](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/477.gif)|Medium|
 |1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)|[Solution](../main/Solutions/1823.java) |![1823](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1823.gif)|Medium|
 |1860|[Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak/)|[Solution](../main/Solutions/1860.java) |![1860](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1860.gif)|Medium|
+|2095|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[Solution](../main/Solutions/2095.java) |![2095](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/2095.gif)|Medium|
 |921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Solution](../main/Solutions/921.java) |![921](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/921.gif)|Medium|
 |1551|[Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)|[Solution](../main/Solutions/1551.java) |![1551](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1551.gif)|Medium|
 |985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)|[Solution](../main/Solutions/985.java) |![985](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/985.gif)|Medium|
