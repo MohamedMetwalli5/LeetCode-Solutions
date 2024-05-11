@@ -10,7 +10,7 @@
 </p>
 
 ## What is this?
-These solutions are designed specifically for beginners on LeetCode, addressing many problems using code and animations.
+These LeetCode solutions are designed specifically for beginners, addressing many problems using code and animations.
 <br>
 <br>
 
