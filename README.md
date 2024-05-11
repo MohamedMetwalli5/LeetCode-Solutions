@@ -29,7 +29,6 @@ _If you like this project, please leave me a star._ &#9733;
 |729|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[Solution](../main/Solutions/729.java) ||Medium|
 |676|[Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/)|[Solution](../main/Solutions/676.java) ||Medium|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[Solution](../main/Solutions/384.java) ||Medium|
-|677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)|[Solution](../main/Solutions/677.java) ||Medium|
 |1109|[Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/)|[Solution](../main/Solutions/1109.java) ||Medium|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](../main/Solutions/167.java) ||Medium|
 |1508|[Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/)|[Solution](../main/Solutions/1508.java) ||Medium|
@@ -87,6 +86,7 @@ _If you like this project, please leave me a star._ &#9733;
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Solution](../main/Solutions/56.java) |![56](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/56.gif)|Medium|
 |1817|[Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/)|[Solution](../main/Solutions/1817.java) |![1817](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1817.gif)|Medium|
 |1561|[Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)|[Solution](../main/Solutions/1561.java) |![1561](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1561.gif)|Medium|
+|677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)|[Solution](../main/Solutions/677.java) |![677](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/677.gif)|Medium|
 |1305|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[Solution](../main/Solutions/1305.java) |![1305](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1305.gif)|Medium|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Solution](../main/Solutions/207.java) |![207](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/207.gif)|Medium|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Solution](../main/Solutions/230.java) |![230](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/230.gif)|Medium|
