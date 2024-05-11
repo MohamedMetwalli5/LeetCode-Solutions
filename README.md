@@ -49,7 +49,6 @@ _If you like this project, please leave me a star._ &#9733;
 |2149|[Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)|[Solution](../main/Solutions/2149.java) ||Medium|
 |2130|[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)|[Solution](../main/Solutions/2130.java) ||Medium|
 |1409|[Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/)|[Solution](../main/Solutions/1409.java) ||Medium|
-|2120|[Execution of All Suffix Instructions Staying in a Grid](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/)|[Solution](../main/Solutions/2120.java) ||Medium|
 |2125|[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)|[Solution](../main/Solutions/2125.java) ||Medium|
 |1282|[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Solution](../main/Solutions/1282.java) ||Medium|
 |1769|[Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)|[Solution](../main/Solutions/1769.java) ||Medium|
@@ -59,6 +58,7 @@ _If you like this project, please leave me a star._ &#9733;
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](../main/Solutions/34.java) |![34](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/34.gif)|Medium|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[Solution](../main/Solutions/187.java) |![187](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/187.gif)|Medium|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Solution](../main/Solutions/560.java) |![560](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/560.gif)|Medium|
+|2120|[Execution of All Suffix Instructions Staying in a Grid](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/)|[Solution](../main/Solutions/2120.java) |![2120](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/2120.gif)|Medium|
 |2043|[Simple Bank System](https://leetcode.com/problems/simple-bank-system/)|[Solution](../main/Solutions/2043.java) |![2043](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/2043.gif)|Medium|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|[Solution](../main/Solutions/148.java) |![148](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/148.gif)|Medium|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Solution](../main/Solutions/24.java) |![24](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/24.gif)|Medium|
