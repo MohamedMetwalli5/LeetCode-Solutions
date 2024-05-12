@@ -20,7 +20,6 @@ _If you like this project, please leave me a star._ &#9733;
 
 |  #  |      Title     |   Solution    | Animation  | Difficulty  |                  
 |-----|----------------|---------------|------------|-------------|
-|665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Solution](../main/Solutions/665.java) ||Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Solution](../main/Solutions/98.java) ||Medium|
 |848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[Solution](../main/Solutions/848.java) ||Medium|
 |1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[Solution](../main/Solutions/1352.java) ||Medium|
@@ -72,6 +71,7 @@ _If you like this project, please leave me a star._ &#9733;
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Solution](../main/Solutions/142.java) |![142](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/142.gif)|Medium|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Solution](../main/Solutions/701.java) |![701](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/701.gif)|Medium|
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)|[Solution](../main/Solutions/477.java) |![477](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/477.gif)|Medium|
+|665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Solution](../main/Solutions/665.java) |![665](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/665.gif)|Medium|
 |1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)|[Solution](../main/Solutions/1823.java) |![1823](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1823.gif)|Medium|
 |2130|[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)|[Solution](../main/Solutions/2130.java) |![2130](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/2130.gif)|Medium|
 |1860|[Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak/)|[Solution](../main/Solutions/1860.java) |![1860](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1860.gif)|Medium|
