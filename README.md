@@ -22,7 +22,6 @@ _If you like this project, please leave me a star._ &#9733;
 |-----|----------------|---------------|------------|-------------|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Solution](../main/Solutions/665.java) ||Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Solution](../main/Solutions/98.java) ||Medium|
-|229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[Solution](../main/Solutions/229.java) ||Medium|
 |848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[Solution](../main/Solutions/848.java) ||Medium|
 |1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[Solution](../main/Solutions/1352.java) ||Medium|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Solution](../main/Solutions/380.java) ||Medium|
@@ -64,6 +63,7 @@ _If you like this project, please leave me a star._ &#9733;
 |2221|[Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/)|[Solution](../main/Solutions/2221.java) |![2221](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/2221.gif)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Solution](../main/Solutions/287.java) |![287](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/287.gif)|Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Solution](../main/Solutions/215.java) |![215](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/215.gif)|Medium|
+|229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[Solution](../main/Solutions/229.java) |![229](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/229.gif)|Medium|
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[Solution](../main/Solutions/398.java) |![398](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/398.gif)|Medium|
 |1433|[Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/)|[Solution](../main/Solutions/1433.java) |![1433](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1433.gif)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution](../main/Solutions/7.java) |![7](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/7.gif)|Medium|
