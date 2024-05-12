@@ -37,7 +37,6 @@ _If you like this project, please leave me a star._ &#9733;
 |1529|[Minimum Suffix Flips](https://leetcode.com/problems/minimum-suffix-flips/)|[Solution](../main/Solutions/1529.java) ||Medium|
 |2023|[Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/)|[Solution](../main/Solutions/2023.java) ||Medium|
 |1347|[Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)|[Solution](../main/Solutions/1347.java) ||Medium|
-|1630|[Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)|[Solution](../main/Solutions/1630.java) ||Medium|
 |1877|[Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)|[Solution](../main/Solutions/1877.java) ||Medium|
 |2149|[Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)|[Solution](../main/Solutions/2149.java) ||Medium|
 |1409|[Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/)|[Solution](../main/Solutions/1409.java) ||Medium|
@@ -46,6 +45,7 @@ _If you like this project, please leave me a star._ &#9733;
 |1828|[Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)|[Solution](../main/Solutions/1828.java) ||Medium|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[Solution](../main/Solutions/204.java) |![204](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/204.gif)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](../main/Solutions/19.java) |![19](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/19.gif)|Medium|
+|1630|[Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)|[Solution](../main/Solutions/1630.java) |![1630](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1630.gif)|Medium|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](../main/Solutions/34.java) |![34](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/34.gif)|Medium|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[Solution](../main/Solutions/187.java) |![187](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/187.gif)|Medium|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Solution](../main/Solutions/560.java) |![560](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/560.gif)|Medium|
