@@ -45,7 +45,6 @@ _If you like this project, please leave me a star._ &#9733;
 |1630|[Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)|[Solution](../main/Solutions/1630.java) ||Medium|
 |1877|[Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)|[Solution](../main/Solutions/1877.java) ||Medium|
 |2149|[Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)|[Solution](../main/Solutions/2149.java) ||Medium|
-|2130|[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)|[Solution](../main/Solutions/2130.java) ||Medium|
 |1409|[Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/)|[Solution](../main/Solutions/1409.java) ||Medium|
 |2125|[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)|[Solution](../main/Solutions/2125.java) ||Medium|
 |1282|[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Solution](../main/Solutions/1282.java) ||Medium|
@@ -75,6 +74,7 @@ _If you like this project, please leave me a star._ &#9733;
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Solution](../main/Solutions/701.java) |![701](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/701.gif)|Medium|
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)|[Solution](../main/Solutions/477.java) |![477](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/477.gif)|Medium|
 |1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)|[Solution](../main/Solutions/1823.java) |![1823](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1823.gif)|Medium|
+|2130|[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)|[Solution](../main/Solutions/2130.java) |![2130](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/2130.gif)|Medium|
 |1860|[Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak/)|[Solution](../main/Solutions/1860.java) |![1860](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1860.gif)|Medium|
 |2095|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[Solution](../main/Solutions/2095.java) |![2095](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/2095.gif)|Medium|
 |921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Solution](../main/Solutions/921.java) |![921](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/921.gif)|Medium|
