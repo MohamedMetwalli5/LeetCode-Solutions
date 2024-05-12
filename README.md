@@ -42,7 +42,6 @@ _If you like this project, please leave me a star._ &#9733;
 |2149|[Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)|[Solution](../main/Solutions/2149.java) ||Medium|
 |1409|[Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/)|[Solution](../main/Solutions/1409.java) ||Medium|
 |2125|[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)|[Solution](../main/Solutions/2125.java) ||Medium|
-|1282|[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Solution](../main/Solutions/1282.java) ||Medium|
 |1769|[Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)|[Solution](../main/Solutions/1769.java) ||Medium|
 |1828|[Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)|[Solution](../main/Solutions/1828.java) ||Medium|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[Solution](../main/Solutions/204.java) |![204](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/204.gif)|Medium|
@@ -62,6 +61,7 @@ _If you like this project, please leave me a star._ &#9733;
 |1433|[Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/)|[Solution](../main/Solutions/1433.java) |![1433](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1433.gif)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution](../main/Solutions/7.java) |![7](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/7.gif)|Medium|
 |1721|[Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Solution](../main/Solutions/1721.java) |![1721](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1721.gif)|Medium|
+|1282|[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Solution](../main/Solutions/1282.java) |![1282](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1282.gif)|Medium|
 |1222|[Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/)|[Solution](../main/Solutions/1222.java) |![1222](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1222.gif)|Medium|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Solution](../main/Solutions/763.java) |![763](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/763.gif)|Medium|
 |1669|[Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)|[Solution](../main/Solutions/1669.java) |![1669](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1669.gif)|Medium|
