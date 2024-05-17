@@ -7,7 +7,7 @@ class Solution {
             s1[s.charAt(i)-'a']++;
             t1[t.charAt(i)-'a']++;
         }
-        for(int i=0;i<s1.length;i++){
+        for(int i=0;i<26;i++){
             res += Math.abs(s1[i]-t1[i]);
         }
         return res/2;
