@@ -25,7 +25,6 @@ _If you like this project, please leave me a star._ &#9733;
 |676|[Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/)|[Solution](../main/Solutions/676.java) ||Medium|
 |1109|[Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/)|[Solution](../main/Solutions/1109.java) ||Medium|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](../main/Solutions/167.java) ||Medium|
-|1023|[Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)|[Solution](../main/Solutions/1023.java) ||Medium|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Solution](../main/Solutions/378.java) ||Medium|
 |1584|[Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)|[Solution](../main/Solutions/1584.java) ||Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](../main/Solutions/49.java) ||Medium|
@@ -57,6 +56,7 @@ _If you like this project, please leave me a star._ &#9733;
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[Solution](../main/Solutions/229.java) |![229](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/229.gif)|Medium|
 |1508|[Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/)|[Solution](../main/Solutions/1508.java) |![1508](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1508.gif)|Medium|
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[Solution](../main/Solutions/398.java) |![398](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/398.gif)|Medium|
+|1023|[Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)|[Solution](../main/Solutions/1023.java) |![1023](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1023.gif)|Medium|
 |1828|[Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)|[Solution](../main/Solutions/1828.java) |![1828](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1828.gif)|Medium|
 |1433|[Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/)|[Solution](../main/Solutions/1433.java) |![1433](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1433.gif)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution](../main/Solutions/7.java) |![7](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/7.gif)|Medium|
