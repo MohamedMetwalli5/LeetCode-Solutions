@@ -20,7 +20,6 @@ _If you like this project, please leave me a star._ &#9733;
 
 |  #  |      Title     |   Solution    | Animation  | Difficulty  |                  
 |-----|----------------|---------------|------------|-------------|
-|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Solution](../main/Solutions/98.java) ||Medium|
 |1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[Solution](../main/Solutions/1352.java) ||Medium|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Solution](../main/Solutions/380.java) ||Medium|
 |676|[Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/)|[Solution](../main/Solutions/676.java) ||Medium|
@@ -40,6 +39,7 @@ _If you like this project, please leave me a star._ &#9733;
 |2149|[Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)|[Solution](../main/Solutions/2149.java) ||Medium|
 |1409|[Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/)|[Solution](../main/Solutions/1409.java) ||Medium|
 |2125|[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)|[Solution](../main/Solutions/2125.java) ||Medium|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Solution](../main/Solutions/98.java) |![98](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/98.gif)|Medium|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[Solution](../main/Solutions/204.java) |![204](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/204.gif)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](../main/Solutions/19.java) |![19](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/19.gif)|Medium|
 |1630|[Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)|[Solution](../main/Solutions/1630.java) |![1630](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1630.gif)|Medium|
