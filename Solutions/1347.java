@@ -8,11 +8,8 @@ class Solution {
             t1[t.charAt(i)-'a']++;
         }
         for(int i=0;i<s1.length;i++){
-            if(s1[i] > t1[i]){
-                res += (s1[i]-t1[i]);
-            }
-
+            res += Math.abs(s1[i]-t1[i]);
         }
-        return res;
+        return res/2;
     }
 }
