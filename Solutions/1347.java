@@ -1,23 +1,17 @@
 class Solution {
     public int minSteps(String s, String t) {
-        HashMap<Character, Integer> h = new HashMap<>();
+        int s1[] = new int[26];
+        int t1[] = new int[26];
+        int res=0;
         for(int i=0;i<s.length();i++){
-            if(h.get(s.charAt(i)) == null){
-                h.put(s.charAt(i), 1);
-            }else{
-                h.put(s.charAt(i), h.get(s.charAt(i))+1);
-            }
+            s1[s.charAt(i)-'a']++;
+            t1[t.charAt(i)-'a']++;
         }
-        int res = 0;
-        for(int i=0;i<t.length();i++){
-            if(h.get(t.charAt(i)) == null || h.get(t.charAt(i)) < 0){
-                res++;
-            }else{
-                h.put(t.charAt(i), h.get(t.charAt(i))-1);
-                if(h.get(t.charAt(i)) < 0){
-                    res++;
-                }
+        for(int i=0;i<s1.length;i++){
+            if(s1[i] > t1[i]){
+                res += (s1[i]-t1[i]);
             }
+
         }
         return res;
     }
