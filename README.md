@@ -32,7 +32,6 @@ _If you like this project, please leave me a star._ &#9733;
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](../main/Solutions/347.java) ||Medium|
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Solution](../main/Solutions/973.java) ||Medium|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Solution](../main/Solutions/442.java) ||Medium|
-|1529|[Minimum Suffix Flips](https://leetcode.com/problems/minimum-suffix-flips/)|[Solution](../main/Solutions/1529.java) ||Medium|
 |2023|[Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/)|[Solution](../main/Solutions/2023.java) ||Medium|
 |1877|[Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)|[Solution](../main/Solutions/1877.java) ||Medium|
 |2149|[Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)|[Solution](../main/Solutions/2149.java) ||Medium|
@@ -52,6 +51,7 @@ _If you like this project, please leave me a star._ &#9733;
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|[Solution](../main/Solutions/148.java) |![148](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/148.gif)|Medium|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Solution](../main/Solutions/24.java) |![24](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/24.gif)|Medium|
 |2221|[Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/)|[Solution](../main/Solutions/2221.java) |![2221](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/2221.gif)|Medium|
+|1529|[Minimum Suffix Flips](https://leetcode.com/problems/minimum-suffix-flips/)|[Solution](../main/Solutions/1529.java) |![1529](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1529.gif)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Solution](../main/Solutions/287.java) |![287](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/287.gif)|Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Solution](../main/Solutions/215.java) |![215](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/215.gif)|Medium|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[Solution](../main/Solutions/229.java) |![229](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/229.gif)|Medium|
