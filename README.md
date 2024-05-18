@@ -27,7 +27,6 @@ _If you like this project, please leave me a star._ &#9733;
 |1584|[Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)|[Solution](../main/Solutions/1584.java) ||Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](../main/Solutions/49.java) ||Medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](../main/Solutions/347.java) ||Medium|
-|973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Solution](../main/Solutions/973.java) ||Medium|
 |2023|[Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/)|[Solution](../main/Solutions/2023.java) ||Medium|
 |1877|[Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)|[Solution](../main/Solutions/1877.java) ||Medium|
 |2149|[Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)|[Solution](../main/Solutions/2149.java) ||Medium|
@@ -71,6 +70,7 @@ _If you like this project, please leave me a star._ &#9733;
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Solution](../main/Solutions/665.java) |![665](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/665.gif)|Medium|
 |1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)|[Solution](../main/Solutions/1823.java) |![1823](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1823.gif)|Medium|
 |2130|[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)|[Solution](../main/Solutions/2130.java) |![2130](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/2130.gif)|Medium|
+|973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Solution](../main/Solutions/973.java) |![973](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/973.gif)|Medium|
 |1860|[Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak/)|[Solution](../main/Solutions/1860.java) |![1860](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1860.gif)|Medium|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Solution](../main/Solutions/442.java) |![442](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/442.gif)|Medium|
 |2095|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[Solution](../main/Solutions/2095.java) |![2095](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/2095.gif)|Medium|
