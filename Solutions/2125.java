@@ -10,7 +10,7 @@ class Solution {
                 }
             }
             if(count != 0){
-                res += prev * count;
+                res += (prev*count);
                 prev = count;
             }
         }
