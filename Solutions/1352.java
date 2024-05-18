@@ -1,22 +1,39 @@
 class ProductOfNumbers {
-    private List<Integer> l; 
+    ArrayList<Integer> prefixProduct;
+
     public ProductOfNumbers() {
-        l = new ArrayList<>();
+        prefixProduct = new ArrayList();
     }
     
     public void add(int num) {
-        l.add(num);   
+        if(num == 0){
+            prefixProduct.clear();
+        }else{
+            if(prefixProduct.size() == 0){
+                prefixProduct.add(num);
+            }else{
+                prefixProduct.add(num * prefixProduct.get(prefixProduct.size()-1));
+            }
+        }
     }
     
     public int getProduct(int k) {
-        int p = 1, i = l.size()-1;
-        while(k-->0){
-            p *= l.get(i);
-            i--;
+        if(k > prefixProduct.size()){
+            return 0;
         }
-        return p;
+        if(prefixProduct.size() == k){
+            return prefixProduct.get(prefixProduct.size()-1);
+        }
+        return (prefixProduct.get(prefixProduct.size()-1) / prefixProduct.get(prefixProduct.size()-k-1));
     }
 }
+
+/**
+ * Your ProductOfNumbers object will be instantiated and called as such:
+ * ProductOfNumbers obj = new ProductOfNumbers();
+ * obj.add(num);
+ * int param_2 = obj.getProduct(k);
+ */
 
 /**
  * Your ProductOfNumbers object will be instantiated and called as such:
