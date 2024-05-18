@@ -24,7 +24,6 @@ _If you like this project, please leave me a star._ &#9733;
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Solution](../main/Solutions/380.java) ||Medium|
 |676|[Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/)|[Solution](../main/Solutions/676.java) ||Medium|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](../main/Solutions/167.java) ||Medium|
-|378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Solution](../main/Solutions/378.java) ||Medium|
 |1584|[Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)|[Solution](../main/Solutions/1584.java) ||Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](../main/Solutions/49.java) ||Medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](../main/Solutions/347.java) ||Medium|
@@ -43,6 +42,7 @@ _If you like this project, please leave me a star._ &#9733;
 |1769|[Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)|[Solution](../main/Solutions/1769.java) |![1769](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1769.gif)|Medium|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](../main/Solutions/34.java) |![34](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/34.gif)|Medium|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[Solution](../main/Solutions/187.java) |![187](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/187.gif)|Medium|
+|378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Solution](../main/Solutions/378.java) |![378](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/378.gif)|Medium|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Solution](../main/Solutions/560.java) |![560](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/560.gif)|Medium|
 |2120|[Execution of All Suffix Instructions Staying in a Grid](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/)|[Solution](../main/Solutions/2120.java) |![2120](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/2120.gif)|Medium|
 |2043|[Simple Bank System](https://leetcode.com/problems/simple-bank-system/)|[Solution](../main/Solutions/2043.java) |![2043](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/2043.gif)|Medium|
