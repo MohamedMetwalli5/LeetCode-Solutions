@@ -25,7 +25,6 @@ _If you like this project, please leave me a star._ &#9733;
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](../main/Solutions/167.java) ||Medium|
 |1584|[Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)|[Solution](../main/Solutions/1584.java) ||Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](../main/Solutions/49.java) ||Medium|
-|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](../main/Solutions/347.java) ||Medium|
 |2023|[Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/)|[Solution](../main/Solutions/2023.java) ||Medium|
 |2149|[Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)|[Solution](../main/Solutions/2149.java) ||Medium|
 |1409|[Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/)|[Solution](../main/Solutions/1409.java) ||Medium|
@@ -81,6 +80,7 @@ _If you like this project, please leave me a star._ &#9733;
 |985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)|[Solution](../main/Solutions/985.java) |![985](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/985.gif)|Medium|
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Solution](../main/Solutions/901.java) |![901](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/901.gif)|Medium|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Solution](../main/Solutions/147.java) |![147](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/147.gif)|Medium|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](../main/Solutions/347.java) |![347](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/347.gif)|Medium|
 |1381|[Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)|[Solution](../main/Solutions/1381.java) |![1381](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1381.gif)|Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Solution](../main/Solutions/56.java) |![56](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/56.gif)|Medium|
 |1817|[Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/)|[Solution](../main/Solutions/1817.java) |![1817](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1817.gif)|Medium|
