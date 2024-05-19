@@ -1,28 +1,33 @@
 class MagicDictionary {
-
-    HashSet<String> h;
+    Set<String> originalSet;
     public MagicDictionary() {
-        h = new HashSet<>();
+        originalSet = new HashSet<>();
     }
     
     public void buildDict(String[] dictionary) {
-        for(int i=0;i<dictionary.length;i++){
-            h.add(dictionary[i]);
+        for(String str: dictionary){
+            originalSet.add(str);
         }
     }
     
     public boolean search(String searchWord) {
-        for(String s : h){
+        for(String str: originalSet){
             int count = 0;
-            for(int i=0;i<((searchWord.length() > s.length())? s : searchWord).length();i++){
-                count += searchWord.charAt(i) != s.charAt(i)? 1:0;
+            if(searchWord.length() != str.length()){
+                continue;
             }
-            if(count == 1 && s.length() == searchWord.length()){
+            for(int i=0;i < str.length();i++){
+                if(str.charAt(i) != searchWord.charAt(i)){
+                    count++;
+                }
+            }
+            if(count == 1){
                 return true;
             }
         }
         return false;
     }
+
 }
 
 /**
