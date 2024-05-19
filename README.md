@@ -21,7 +21,6 @@ _If you like this project, please leave me a star._ &#9733;
 |  #  |      Title     |   Solution    | Animation  | Difficulty  |                  
 |-----|----------------|---------------|------------|-------------|
 |2149|[Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)|[Solution](../main/Solutions/2149.java) ||Medium|
-|1409|[Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/)|[Solution](../main/Solutions/1409.java) ||Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Solution](../main/Solutions/98.java) |![98](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/98.gif)|Medium|
 |1347|[Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)|[Solution](../main/Solutions/1347.java) |![1347](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1347.gif)|Medium|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[Solution](../main/Solutions/204.java) |![204](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/204.gif)|Medium|
@@ -57,6 +56,7 @@ _If you like this project, please leave me a star._ &#9733;
 |1669|[Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)|[Solution](../main/Solutions/1669.java) |![1669](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1669.gif)|Medium|
 |729|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[Solution](../main/Solutions/729.java) |![729](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/729.gif)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Solution](../main/Solutions/142.java) |![142](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/142.gif)|Medium|
+|1409|[Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/)|[Solution](../main/Solutions/1409.java) |![1409](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1409.gif)|Medium|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Solution](../main/Solutions/701.java) |![701](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/701.gif)|Medium|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Solution](../main/Solutions/380.java) |![380](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/380.gif)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](../main/Solutions/49.java) |![49](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/49.gif)|Medium|
