@@ -141,3 +141,8 @@ _If you like this project, please leave me a star._ &#9733;
 |1534|[Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)|[Solution](../main/Solutions/1534.java) |![1534](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1534.gif)|Easy|
 |1844|[Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)|[Solution](../main/Solutions/1844.java) |![1844](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/1844.gif)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Solution](../main/Solutions/169.java) |![169](https://github.com/MohamedMetwalli5/LeetCode-Solutions/blob/main/Animations/169.gif)|Easy|
+
+
+# Author
+**Mohamed Metwalli** - Software Engineer & Technical Writer  
+🌐 [mohamedmetwalli.com](https://www.mohamedmetwalli.com) · [LinkedIn](https://www.linkedin.com/in/mohamed-metwalli5)
